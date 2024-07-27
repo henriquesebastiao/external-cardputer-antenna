@@ -6,13 +6,18 @@ A ideia aqui é documentar o processo de instalação de uma antena externa no C
 
 Caso você tenha alguma dúvida, abra uma issue para que possamos te ajudar.
 
-## Notas
+## 📜 Notas
 
 Tenha em mente que você precisará abrir o Cardputer para instalar a antena externa, ele é um pouco delicado internamente, principalmente os componentes referentes a sua tela, logo todo o cuidado se faz necessário poara não danificar seu aparelho.
 
 As imagens referentes a polaridades das malhas do conetor IPX presentes nesse passo a passo são oriundas do servidor Azur Firmware no Discord, cujo o crédito é devido aos usuários `@Cyber.odare` e `@keebasg`, agradeço a eles por compartilharem suas experiências.
 
-## Materiais
+## ⚠️ Cuidados a serem tomados ao abrir o Cardputer
+
+- Tome cuidado ao abrir o Cardputer, pois o conector flat do display é frági e é conectado na parte de baixo do STAMP.
+- Cuidado para não entortar os pinos do STAMP.
+
+## 📝 Materiais
 
 - Antena Wi-Fi SMA e adaptador IPX para SMA (recomendado: https://a.aliexpress.com/_mK5YhoU)
 - Ferro de solda
@@ -22,13 +27,11 @@ Você deve escolher uma antena que tenha o conector compatível com o adaptador 
 
 <img src="img/rp-sma_sma.jpg" width="500" alt="Diferença entre conectores SMA e RP-SMA."/>
 
-## Procedimento
+## 🛠️ Procedimento
 
 Corte a ponta IPX do adaptador e descasque a ponta do cabo, separe a malha externa da interna, a malha externa representa o cabo negativo, já a interna representa o cabo positivo.
 
 <img src="img/peeled-tip.jpg" width="500" alt="Ponta descascada do adaptador."/>
-
-Tome cuidado ao abrir o Cardputer, pois o conector flat do display é frági e é conectado na parte de baixo do STAMP.
 
 Com o ferro de solda esquente a solda da antena 3D integrada do Cardputer e a remova.
 
