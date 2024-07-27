@@ -1,6 +1,6 @@
 # Antena externa no Cardputer
 
-<img src="img/main.jpg" width="300" alt="Diferença entre conectores SMA e RP-SMA."/>
+<img src="img/main.jpg" width="300"/>
 
 A ideia aqui é documentar o processo de instalação de uma antena externa no Cardputer, para melhorar o poder do sinal Wi-Fi, juntando o máximo de informações possíveis para facilitar a vida de quem quiser fazer o mesmo. Se você já fez isso e tem alguma dica, por favor, faça um pull request com suas informações.
 
@@ -60,7 +60,7 @@ Segue abaixo todas as demais imagens que podem lhe ajudar a entender melhor o pr
 
 ## Fora de contexto 😅
 
-Experiencia que eu, @henriquesebastiao tive:
+Experiencia que eu, [@henriquesebastiao](https://github.com/henriquesebastiao) tive:
 
 - Durante o processo de montar o Cardputer de volta eu quase desisti, o trem que não dava certo!
 - E enquanto eu acho um espaço para caber o plug SMA eu optei por usar nada mais nada menos que uma furadeira para fazer um buraco na carcaça do Cardputer, pena que nao registrei isso.
