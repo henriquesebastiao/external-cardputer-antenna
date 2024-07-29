@@ -12,7 +12,7 @@ If you have any questions, open an issue so we can help you.
 
 Keep in mind that you will need to open the Cardputer to install the external antenna. It is somewhat delicate internally, especially the components related to its screen, so care is necessary to avoid damaging your device.
 
-The images showing the polarities of the IPX connector braids in this guide come from the Azur Firmware server on Discord, and credit is due to users @Cyber.odare and @keebasg. Thank you for sharing your experiences.
+The images showing the polarities of the IPX connector braids in this guide come from the Azur Firmware server on Discord, and credit is due to users `@Cyber.odare` and `@keebasg`. Thank you for sharing your experiences.
 
 I would like to thank the following person for sharing images and information that helped compose this guide:
 
