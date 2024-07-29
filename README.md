@@ -12,9 +12,16 @@ Tenha em mente que você precisará abrir o Cardputer para instalar a antena ext
 
 As imagens referentes a polaridades das malhas do conetor IPX presentes nesse passo a passo são oriundas do servidor Azur Firmware no Discord, cujo o crédito é devido aos usuários `@Cyber.odare` e `@keebasg`, agradeço a eles por compartilharem suas experiências.
 
+Agradeço aos seguintes usuários por compartilhar imagens e informações que ajudaram a compor esse passo a passo:
+
+- @Lucas-Simoes-Lisboa
+
 ## ⚠️ Cuidados a serem tomados ao abrir o Cardputer
 
 - Tome cuidado ao abrir o Cardputer, pois o conector flat do display é frági e é conectado na parte de baixo do STAMP.
+
+<img src="img/img9.jpg" width="300" alt="Conector flat do STAMP"/>
+
 - Cuidado para não entortar os pinos do STAMP.
 
 ## 📝 Materiais
@@ -57,6 +64,10 @@ Segue abaixo todas as demais imagens que podem lhe ajudar a entender melhor o pr
 <img src="img/img7.jpg" width="300"/>
 <img src="img/img8.jpg" width="300"/>
 <img src="img/img1.jpg" width="300"/>
+<img src="img/img10.jpg" width="300"/>
+<img src="img/img11.jpg" width="300"/>
+<img src="img/img12.jpg" width="300"/>
+<img src="img/img13.jpg" width="300"/>
 
 ## Fora de contexto 😅
 
