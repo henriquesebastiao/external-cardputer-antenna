@@ -2,7 +2,7 @@
 
 <img src="img/main.jpg" width="300"/>
 
-<details><summary><h3>English version:</h3></summary>
+<details><summary><h3>👉 Click here for English version</h3></summary>
 
 The idea here is to document the process of installing an external antenna on the Cardputer to improve the Wi-Fi signal strength, gathering as much information as possible to make life easier for anyone who wants to do the same. If you have already done this and have any tips, please submit a pull request with your information.
 
