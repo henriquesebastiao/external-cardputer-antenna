@@ -75,6 +75,10 @@ Below are the test results:
 | Network 3 | 240 | 6 | - | -87 | -85 | -91 | -87 |
 | Network 4 | 246 | 6 | - | -93 | -89 | -89 | -86 |
 
+### Conclusion
+
+Of the four antennas tested, antenna 4 performed best, being able to receive signals from further away, up to 122 meters in urban areas and up to 246 meters in open rural areas. It also achieved better signal levels from closer networks when compared to the other antennas. However, if you prefer a smaller and more compact antenna, antenna 2 also proved to be a good alternative with interesting results, although inferior to antenna 4.
+
 ## ⚠️ Precautions to Take When Opening the Cardputer
 
 - Be careful when opening the Cardputer, as the display flat connector is fragile and is connected at the bottom of the STAMP.
@@ -155,7 +159,7 @@ Agradeço às seguintes pessoa por compartilharem imagens e informações que aj
 
 ## 📊 Testes de nível de sinais obtidos
 
-A fim de tentar mensurar a melhora do sinal Wi-Fi com a antena externa, foram feitos testes de nível de sinal com o com o Cardputer em dois cenários diferentes e com 5 configurações de antena diferentes.
+A fim de tentar mensurar a melhora do sinal Wi-Fi com a antena externa, foram feitos testes de nível de sinal com o Cardputer em dois cenários diferentes e com 5 configurações de antena diferentes.
 
 Se tratando de analisar a performance do Cardputer para recepção de sinal Wi-Fi, temos que ter em mente que o contexto dos testes importa muito, pois o sinal Wi-Fi é influenciado por diversos fatores, como a distância do roteador, a presença de obstáculos, a interferência de outros dispositivos, entre outros. Sabendo disso tentarei descrever a baixo com máximo de detalhes possível os cenários e as configurações de antena utilizadas.
 
@@ -208,6 +212,10 @@ Segue abaixo os resultados dos testes:
 | Rede 2 | 5 | 1 | -69 | -60 | -57 | -63 | -63 |
 | Rede 3 | 240 | 6 | - | -87 | -85 | -91 | -87 |
 | Rede 4 | 246 | 6 | - | -93 | -89 | -89 | -86 |
+
+### Conclusão
+
+Das quatro antenas testadas, a antena 4 foi a que se saiu melhor, conseguindo receber sinais mais distantes até 122 metros em área urbana e até 246 em área rural aberta. E conseguindo níveis de sinais melhores da redes mais próximas se comparados com as outras antenas. Contudo, caso você prefira uma antenar menor e mais compacta a antena 2 também se mostrar uma boa alternativa com resultados interessantes, porém inferiores a antena 4.
 
 ## ⚠️ Cuidados a serem tomados ao abrir o Cardputer
 
