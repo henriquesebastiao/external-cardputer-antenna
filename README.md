@@ -18,6 +18,63 @@ I would like to thank the following person for sharing images and information th
 
 - [@Lucas-Simoes-Lisboa](https://github.com/Lucas-Simoes-Lisboa)
 
+## 📊 Signal level tests obtained
+
+In order to try to measure the improvement of the Wi-Fi signal with the external antenna, signal level tests were performed with the Cardputer in two different scenarios and with 5 different antenna configurations.
+
+When analyzing the Cardputer's performance for Wi-Fi signal reception, we must keep in mind that the context of the tests is very important, since the Wi-Fi signal is influenced by several factors, such as the distance from the router, the presence of obstacles, interference from other devices, among others. Knowing this, I will try to describe below in as much detail as possible the scenarios and antenna configurations used.
+
+The test scenarios were:
+
+- **Scenario 1**: Tests performed in an urban environment from a modest bakery.
+- **Scenario 2**: Tests performed in a rural area from the balcony of a house and open area.
+
+Antenna configurations used:
+
+- **No antenna**: Only the SMA connector, no antenna.
+
+- **Antenna 1**: [Antenna 2.4/5.8GHz 3dBi](https://pt.aliexpress.com/item/1005004884130236.html).
+- **Antenna 2**: [2.4GHz 3dBi Antenna](https://pt.aliexpress.com/item/32957527411.html).
+- **Antenna 3**: [LTE Antenna 10dBi 700-2700MHz](https://pt.aliexpress.com/item/1005003194475845.html).
+- **Antenna 4**: [Antenna 2.4GHz 6dBi](https://pt.aliexpress.com/item/1005005367683601.html).
+
+Regarding the antenna specifications, I follow the information provided by the sellers, since I do not have any tool to measure the real power of the antennas.
+
+For each antenna, 3 tests were performed, and the average of the received signal values ​​was calculated. I also omitted the names of the Wi-Fi networks to maintain the privacy of the establishments. Instead of the network names, I used "Network 1", "Network 2"...
+
+The signals marked with `-` indicate that the signal was not detected.
+
+Below are the test results:
+
+### Scenario 1
+
+| Network | Distance (m) | Channel | No antenna | Antenna 1 | Antenna 2 | Antenna 3 | Antenna 4 |
+|------|---------------|-------|------------|----|----------|----------|----------|
+| Network 1 | 4 | 1 | -67 | -51 | -45 | -46 | -45 |
+| Network 2 | 5 | 4 | -73 | -66 | -59 | -66 | -60 |
+| Network 3 | 9 | 2 | -88 | -67 | -63 | -68 | -68 |
+| Network 4 | 34 | 6 | -95 | -77 | -72 | -85 | -70 |
+| Network 5 | 35 | 1 | -96 | -90 | -87 | -85 | -85 |
+| Network 6 | 41 | 11 | -92 | -84 | -80 | -80 | -75 |
+| Network 7 | 41 | 1 | -94 | -89 | -86 | -84 | -84 |
+| Network 8 | 41 | - | -94 | - | -76 | -79 | -73 |
+| Network 9 | 43 | 8 | -94 | -90 | -83 | -84 | -75 |
+| Network 10 | 74 | 3 | - | -93 | -82 | -87 | -78 |
+| Network 11 | 80 | - | - | - | - | - | -93 |
+| Network 12 | 105 | 11 | - | - | -89 | -88 | -87 | -77 |
+| Network 13 | 106 | - | - | - | - | - | -92 |
+| Network 14 | 117 | - | - | - | - | - | -93 |
+| Network 15 | 122 | - | - | - | -89 | -95 | -82 |
+
+### Scenario 2
+
+| Network | Distance (m) | Channel | No antenna | Antenna 1 | Antenna 2 | Antenna 3 | Antenna 4 |
+|------|---------------|-------|------------|----------|----------|----------|----------|
+| Network 1 | 3 | 11 | -68 | -55 | -50 | -51 | -47 |
+| Network 2 | 5 | 1 | -69 | -60 | -57 | -63 | -63 |
+| Network 3 | 240 | 6 | - | -87 | -85 | -91 | -87 |
+| Network 4 | 246 | 6 | - | -93 | -89 | -89 | -86 |
+
 ## ⚠️ Precautions to Take When Opening the Cardputer
 
 - Be careful when opening the Cardputer, as the display flat connector is fragile and is connected at the bottom of the STAMP.
@@ -28,7 +85,7 @@ Be careful not to bend the STAMP pins.
 
 ## 📝 Materials
 
-- SMA Wi-Fi antenna and IPX to SMA adapter (recommended: https://a.aliexpress.com/_mK5YhoU)
+- SMA Wi-Fi antenna and IPX to SMA adapter (recommended: <https://a.aliexpress.com/_mK5YhoU>)
 - Soldering iron
 - Solder
 
@@ -96,6 +153,62 @@ Agradeço às seguintes pessoa por compartilharem imagens e informações que aj
 
 - [@Lucas-Simoes-Lisboa](https://github.com/Lucas-Simoes-Lisboa)
 
+## 📊 Testes de nível de sinais obtidos
+
+A fim de tentar mensurar a melhora do sinal Wi-Fi com a antena externa, foram feitos testes de nível de sinal com o com o Cardputer em dois cenários diferentes e com 5 configurações de antena diferentes.
+
+Se tratando de analisar a performance do Cardputer para recepção de sinal Wi-Fi, temos que ter em mente que o contexto dos testes importa muito, pois o sinal Wi-Fi é influenciado por diversos fatores, como a distância do roteador, a presença de obstáculos, a interferência de outros dispositivos, entre outros. Sabendo disso tentarei descrever a baixo com máximo de detalhes possível os cenários e as configurações de antena utilizadas.
+
+Os cenários de teste foram:
+
+- **Cenário 1**: Testes realizados em ambiente urbano a partir de modesta padaria.
+- **Cenário 2**: Testes realizados em zona rural a partir da varanda de uma casa e área aberta.
+
+Configurações de antena utilizadas:
+
+- **Sem antena**: Apenas o conector SMA, sem antena.
+- **Antena 1**: [Antena 2.4/5.8GHz 3dBi](https://pt.aliexpress.com/item/1005004884130236.html).
+- **Antena 2**: [Antena 2.4GHz 3dBi](https://pt.aliexpress.com/item/32957527411.html).
+- **Antena 3**: [Antena LTE 10dBi 700-2700MHz](https://pt.aliexpress.com/item/1005003194475845.html).
+- **Antena 4**: [Antena 2.4GHz 6dBi](https://pt.aliexpress.com/item/1005005367683601.html).
+
+Quanto as especificações das antenas, sigo as informações passadas pelos vendedores, uma vez que não tenho nenhuma ferramenta para medir a real potência das antenas.
+
+Para cada antena foram realizados 3 testes, e a média dos valores de sinal recebido foi calculada, também omiti os nomes das redes Wi-Fi para manter a privacidade dos estabelecimentos, no lugar dos nomes das redes utilizei "Rede 1", "Rede 2"...
+
+Os sinais marcados com `-` indicam que o sinal não foi detectado.
+
+Segue abaixo os resultados dos testes:
+
+### Cenário 1
+
+| Rede | Distância (m) | Canal | Sem antena | Antena 1 | Antena 2 | Antena 3 | Antena 4 |
+|------|---------------|-------|------------|----------|----------|----------|----------|
+| Rede 1 | 4 | 1 | -67 | -51 | -45 | -46 | -45 |
+| Rede 2 | 5 | 4 | -73 | -66 | -59 | -66 | -60 |
+| Rede 3 | 9 | 2 | -88 | -67 | -63 | -68 | -68 |
+| Rede 4 | 34 | 6 | -95 | -77 | -72 | -85 | -70 |
+| Rede 5 | 35 | 1 | -96 | -90 | -87 | -85 | -85 |
+| Rede 6 | 41 | 11 | -92 | -84 | -80 | -80 | -75 |
+| Rede 7 | 41 | 1 | -94 | -89 | -86 | -84 | -84 |
+| Rede 8 | 41 | - | -94 | - | -76 | -79 | -73 |
+| Rede 9 | 43 | 8 | -94 | -90 | -83 | -84 | -75 |
+| Rede 10 | 74 | 3 | - | -93 | -82 | -87 | -78 |
+| Rede 11 | 80 | - | - | - | - | - | -93 |
+| Rede 12 | 105 | 11 | - | -89 | -88 | -87 | -77 |
+| Rede 13 | 106 | - | - | - | - | - | -92 |
+| Rede 14 | 117 | - | - | - | - | - | -93 |
+| Rede 15 | 122 | - | - | - | -89 | -95 | -82 |
+
+### Cenário 2
+
+| Rede | Distância (m) | Canal | Sem antena | Antena 1 | Antena 2 | Antena 3 | Antena 4 |
+|------|---------------|-------|------------|----------|----------|----------|----------|
+| Rede 1 | 3 | 11 | -68 | -55 | -50 | -51 | -47 |
+| Rede 2 | 5 | 1 | -69 | -60 | -57 | -63 | -63 |
+| Rede 3 | 240 | 6 | - | -87 | -85 | -91 | -87 |
+| Rede 4 | 246 | 6 | - | -93 | -89 | -89 | -86 |
+
 ## ⚠️ Cuidados a serem tomados ao abrir o Cardputer
 
 - Tome cuidado ao abrir o Cardputer, pois o conector flat do display é frági e é conectado na parte de baixo do STAMP.
@@ -106,7 +219,7 @@ Agradeço às seguintes pessoa por compartilharem imagens e informações que aj
 
 ## 📝 Materiais
 
-- Antena Wi-Fi SMA e adaptador IPX para SMA (recomendado: https://a.aliexpress.com/_mK5YhoU)
+- Antena Wi-Fi SMA e adaptador IPX para SMA (recomendado: <https://a.aliexpress.com/_mK5YhoU>)
 - Ferro de solda
 - Estanho
 
