@@ -33,10 +33,10 @@ Antenna configurations used:
 
 - **No antenna**: Only the SMA connector, no antenna.
 
-- **Antenna 1**: [Antenna 2.4/5.8GHz 3dBi](https://pt.aliexpress.com/item/1005004884130236.html).
+- **Antenna 1**: [Antenna 2.4/5.8GHz 3dBi](https://s.click.aliexpress.com/e/_oEylIq5).
 - **Antenna 2**: [2.4GHz 3dBi Antenna](https://pt.aliexpress.com/item/32957527411.html).
-- **Antenna 3**: [LTE Antenna 10dBi 700-2700MHz](https://pt.aliexpress.com/item/1005003194475845.html).
-- **Antenna 4**: [Antenna 2.4GHz 6dBi](https://pt.aliexpress.com/item/1005005367683601.html).
+- **Antenna 3**: [LTE Antenna 10dBi 700-2700MHz](https://s.click.aliexpress.com/e/_oncECQd).
+- **Antenna 4**: [Antenna 2.4GHz 6dBi](https://s.click.aliexpress.com/e/_opXW0nJ).
 
 Regarding the antenna specifications, I follow the information provided by the sellers, since I do not have any tool to measure the real power of the antennas.
 
@@ -171,10 +171,10 @@ Os cenários de teste foram:
 Configurações de antena utilizadas:
 
 - **Sem antena**: Apenas o conector SMA, sem antena.
-- **Antena 1**: [Antena 2.4/5.8GHz 3dBi](https://pt.aliexpress.com/item/1005004884130236.html).
-- **Antena 2**: [Antena 2.4GHz 3dBi](https://pt.aliexpress.com/item/32957527411.html).
-- **Antena 3**: [Antena LTE 10dBi 700-2700MHz](https://pt.aliexpress.com/item/1005003194475845.html).
-- **Antena 4**: [Antena 2.4GHz 6dBi](https://pt.aliexpress.com/item/1005005367683601.html).
+- **Antena 1**: [Antenna 2.4/5.8GHz 3dBi](https://s.click.aliexpress.com/e/_oEylIq5).
+- **Antena 2**: [2.4GHz 3dBi Antenna](https://pt.aliexpress.com/item/32957527411.html).
+- **Antena 3**: [LTE Antenna 10dBi 700-2700MHz](https://s.click.aliexpress.com/e/_oncECQd).
+- **Antena 4**: [Antenna 2.4GHz 6dBi](https://s.click.aliexpress.com/e/_opXW0nJ).
 
 Quanto as especificações das antenas, sigo as informações passadas pelos vendedores, uma vez que não tenho nenhuma ferramenta para medir a real potência das antenas.
 
