@@ -87,9 +87,11 @@ Of the four antennas tested, antenna 4 performed best, being able to receive sig
 
 - Be careful when opening the Cardputer, as the display flat connector is fragile and is connected at the bottom of the STAMP.
 
-<img src="img/img9.jpg" width="300" alt="STAMP flat connector"/>
+<p align="center">
+  <img src="img/img9.jpg" width="500" alt="STAMP flat connector"/>
+</p>
 
-Be careful not to bend the STAMP pins.
+- Be careful not to bend the STAMP pins.
 
 ---
 
@@ -101,7 +103,9 @@ Be careful not to bend the STAMP pins.
 
 You must choose an antenna that has a connector compatible with the IPX to SMA adapter, as there are two types of SMA connectors (SMA and RP-SMA), and you might get confused. See the image below:
 
-<img src="img/rp-sma_sma.jpg" width="500" alt="Difference between SMA and RP-SMA connectors."/>
+<p align="center">
+  <img src="img/rp-sma_sma.jpg" width="600" alt="Difference between SMA and RP-SMA connectors."/>
+</p>
 
 ---
 
@@ -109,19 +113,27 @@ You must choose an antenna that has a connector compatible with the IPX to SMA a
 
 Cut the IPX end of the adapter and strip the cable end, separating the outer and inner braids. The outer braid represents the negative cable, while the inner braid represents the positive cable.
 
-<img src="img/peeled-tip.jpg" width="500" alt="Stripped tip of the adapter."/>
+<p align="center">
+  <img src="img/peeled-tip.jpg" width="500" alt="Stripped tip of the adapter."/>
+</p>
 
 Use the soldering iron to heat and remove the solder from the integrated 3D antenna of the Cardputer.
 
-<img src="img/3d-antenna.jpg" width="500" alt="3D antenna on the STAMP."/>
+<p align="center">
+  <img src="img/3d-antenna.jpg" width="500" alt="3D antenna on the STAMP."/>
+</p>
 
 In the photo below, you can see where to solder the positive and negative wires of the external antenna.
 
-<img src="img/solder-antenna.jpg" width="500" alt="Where to solder the antenna."/>
+<p align="center">
+  <img src="img/solder-antenna.jpg" width="500" alt="Where to solder the antenna."/>
+</p>
 
 After soldering:
 
-<img src="img/welded-antenna.jpg" width="300" alt="Soldered antenna location."/>
+<p align="center">
+  <img src="img/welded-antenna.jpg" width="500" alt="Soldered antenna location."/>
+</p>
 
 Now, adapt the SMA connector to the Cardputer case and connect the antenna. I believe there is not much more to say about this part.
 
@@ -245,7 +257,9 @@ Das quatro antenas testadas, a antena 4 foi a que se saiu melhor, conseguindo re
 
 - Tome cuidado ao abrir o Cardputer, pois o conector flat do display é frágil e é conectado na parte de baixo do STAMP.
 
-<img src="img/img9.jpg" width="300" alt="Conector flat do STAMP"/>
+<p align="center">
+  <img src="img/img9.jpg" width="500" alt="Conector flat do STAMP"/>
+</p>
 
 - Cuidado para não entortar os pinos do STAMP.
 
@@ -259,7 +273,9 @@ Das quatro antenas testadas, a antena 4 foi a que se saiu melhor, conseguindo re
 
 Você deve escolher uma antena que tenha o conector compatível com o adaptador IPX para SMA, pois existem dois tipos de conectores SMA (SMA e RP-SMA), e você pode acabar se confundindo, veja a imagem abaixo:
 
-<img src="img/rp-sma_sma.jpg" width="500" alt="Diferença entre conectores SMA e RP-SMA."/>
+<p align="center">
+  <img src="img/rp-sma_sma.jpg" width="600" alt="Diferença entre conectores SMA e RP-SMA."/>
+</p>
 
 ---
 
@@ -267,19 +283,27 @@ Você deve escolher uma antena que tenha o conector compatível com o adaptador 
 
 Corte a ponta IPX do adaptador e descasque a ponta do cabo, separe a malha externa da interna, a malha externa representa o cabo negativo, já a interna representa o cabo positivo.
 
-<img src="img/peeled-tip.jpg" width="500" alt="Ponta descascada do adaptador."/>
+<p align="center">
+  <img src="img/peeled-tip.jpg" width="500" alt="Ponta descascada do adaptador."/>
+</p>
 
 Com o ferro de solda esquente a solda da antena 3D integrada do Cardputer e a remova.
 
-<img src="img/3d-antenna.jpg" width="500" alt="Antena 3D no STAMP."/>
+<p align="center">
+  <img src="img/3d-antenna.jpg" width="500" alt="Antena 3D no STAMP."/>
+</p>
 
 Na foto abaixo você pode ver onde deve soldar os fios positivo e negativo da antena externa.
 
-<img src="img/solder-antenna.jpg" width="500" alt="Onde soldar a antena."/>
+<p align="center">
+  <img src="img/solder-antenna.jpg" width="500" alt="Onde soldar a antena."/>
+</p>
 
 Após soldar:
 
-<img src="img/welded-antenna.jpg" width="300" alt="Onde soldar a antena."/>
+<p align="center">
+  <img src="img/welded-antenna.jpg" width="500" alt="Onde soldar a antena."/>
+</p>
 
 Agora basta adaptar o conector SMA na carcassa do Cardputer e conectar a antena. Creio que não há muito a ser dito sobre essa parte.
 
